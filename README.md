@@ -60,10 +60,10 @@ pip install gunicorn==20.1.0
 Then go to website folder and run main.py
 
 ## Technologies Used
-Python 3.8 or 3.9
-Numpy
-Pandas
-Scikit-learn
-Matplotlib: Visualization with Python
-Machine learning Algorithms
+>Python 3.8 or 3.9
+>Numpy
+>Pandas
+>Scikit-learn
+>Matplotlib: Visualization with Python
+>Machine learning Algorithms
 
